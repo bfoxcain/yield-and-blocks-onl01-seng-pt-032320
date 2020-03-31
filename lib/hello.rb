@@ -19,4 +19,3 @@ hello_t(names) { |name| puts name}
   if name.start_with?("T")
     puts "Hi, #{name}"
   end
-end
